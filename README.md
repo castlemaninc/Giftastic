@@ -1,7 +1,7 @@
 # HW - Giftastic!
 
 ## Live Link
- - www.example.com
+ - https://castlemaninc.github.io/Giftastic/
 
 ## Description on how to use the app
 
