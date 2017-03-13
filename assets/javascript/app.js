@@ -1,6 +1,6 @@
 
 // GIFTASTIC! 
-var topics = ["Larry Bird", "Shaquille O'Neal", "Kobe Bryant", "Stephen Curry", "Spud Webb", "Yao Ming", "Kevin Durant", "Kevin Garnett", "Michael Jordan", "Kareem Abdul Jabbar", "Chris Paul", "Dwayne Wade", "Dwight Howard"];
+var topics = ["Flapjack", "Ren & Stimpy", "The Regular Show", "Spongebob", "He-Man", "Powdered Toast Man", "Transformers", "Yogi Bear", "Homer Simpson", "Family Guy", "South Park", "Scooby-Doo", "Adventure Time"];
 
 var button;
 var newTopic = ""; // new topic that will be added via the input field 
